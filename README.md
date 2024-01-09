@@ -1,2 +1,0 @@
-# PSNPT.github.io
-Website
